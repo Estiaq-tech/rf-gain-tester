@@ -1,0 +1,4 @@
+band,freq_start_mhz,freq_stop_mhz,gain_min_db,gain_max_db
+Low,900,1200,18.0,22.0
+Mid,1200,1800,19.0,23.0
+High,1800,2400,17.5,21.5
