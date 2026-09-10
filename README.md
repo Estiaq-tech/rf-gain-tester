@@ -12,9 +12,7 @@ swapped for VISA/SCPI instrument calls (see [Roadmap](#roadmap)).
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/N4l0R24y6hk/maxresdefault.jpg)]
- 
-(https://youtu.be/N4l0R24y6hk)
+[![Watch the demo](https://img.youtube.com/vi/N4l0R24y6hk/maxresdefault.jpg)](https://youtu.be/N4l0R24y6hk)
 
 A walkthrough in three parts: a FAIL run in slow motion (Highlight Execution)
 showing the state machine step through Init → Run → Idle; full-speed runs with
@@ -36,6 +34,8 @@ changed limits (pass + fail); and the traceable master test log.
    to a master `test_log.csv`.
 
 ## Architecture
+
+![State machine block diagram](docs/block-diagram.png)
 
 The final application (`Sweep_Test_statemachine.vi`) is built as a **state
 machine**: a `While` loop + `Case` structure driven by a typedef'd state enum
