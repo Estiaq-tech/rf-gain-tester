@@ -12,7 +12,7 @@ swapped for VISA/SCPI instrument calls (see [Roadmap](#roadmap)).
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/N4l0R24y6hk/hqdefault.jpg)]
+[![Watch the demo](https://img.youtube.com/vi/N4l0R24y6hk/maxresdefault.jpg)]
  
 (https://youtu.be/N4l0R24y6hk)
 
